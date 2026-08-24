@@ -190,5 +190,24 @@
         "education": "Bachelor's Degree in Computer Science / Information Technology",
         "wordCount": 39,
         "uploadedAt": "2026-08-23 20:24:32"
+    },
+    {
+        "candidateId": "CAN-1338D5",
+        "originalName": "Ayan_Khan_Resume.docx",
+        "fileName": "CAN-1338D5.docx",
+        "fileType": "docx",
+        "fileSize": 36803,
+        "resumeText": "Ayan Khan ayan@example.com Professional Summary Developed web applications with Python, React and MongoDB. Experience with SQL and Git. Skills Python, SQL, React, MongoDB, Git Experience 2 years professional experience. Education Bachelor's Degree in Computer Science / Information Technology",
+        "skills": [
+            "react",
+            "python",
+            "mongodb",
+            "git",
+            "sql"
+        ],
+        "experience": "with SQL and Git.",
+        "education": "Bachelor's Degree in Computer Science / Information Technology",
+        "wordCount": 38,
+        "uploadedAt": "2026-08-23 21:07:13"
     }
 ]

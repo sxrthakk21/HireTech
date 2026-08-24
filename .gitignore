@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+
+# Environment / secrets
+.env
+
+# Uploaded resumes
+uploads/
+
+# Local JSON data
+storage/*.json
+
+# Logs
+*.log
