@@ -1,0 +1,29 @@
+[
+    {
+        "jobId": "JOB-E8B225",
+        "title": "dfbdzfh",
+        "description": "dfhzdfzd",
+        "skills": [],
+        "wordCount": 1,
+        "createdAt": "2026-08-23 09:49:02"
+    },
+    {
+        "jobId": "JOB-12D7E5",
+        "title": "PHP laravel Developer",
+        "description": "full stack developer",
+        "skills": [],
+        "wordCount": 3,
+        "createdAt": "2026-08-23 09:51:45"
+    },
+    {
+        "jobId": "JOB-E2B106",
+        "title": "AIML Engineer",
+        "description": "machine learning, python,testing,sql",
+        "skills": [
+            "python",
+            "machine learning"
+        ],
+        "wordCount": 5,
+        "createdAt": "2026-08-23 20:22:06"
+    }
+]

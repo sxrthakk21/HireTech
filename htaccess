@@ -1,0 +1,13 @@
+RewriteEngine On
+
+RewriteBase /intelligent-resume-screening/
+
+RewriteRule ^api/v1/screening/jobs/?$ api/v1/screening/jobs.php [L,QSA]
+
+RewriteRule ^api/v1/screening/resumes/batch/?$ api/v1/screening/resumes.php [L,QSA]
+
+RewriteRule ^api/v1/screening/jobs/([^/]+)/rank/?$ api/v1/screening/rank.php?jobId=$1 [L,QSA]
+
+RewriteRule ^api/v1/screening/candidates/([^/]+)/explain/?$ api/v1/screening/explain.php?candidateId=$1 [L,QSA]
+
+RewriteRule ^api/v1/screening/analytics/bias-check/?$ api/v1/screening/bias-check.php [L,QSA]

@@ -1,0 +1,194 @@
+[
+    {
+        "candidateId": "CAN-04392C",
+        "originalName": "resume-rohan-mehta.pdf",
+        "fileName": "CAN-04392C.pdf",
+        "fileType": "pdf",
+        "fileSize": 52158,
+        "resumeText": "",
+        "skills": [],
+        "wordCount": 0,
+        "uploadedAt": "2026-08-23 09:58:56"
+    },
+    {
+        "candidateId": "CAN-0441ED",
+        "originalName": "resume-arjun-kapoor.pdf",
+        "fileName": "CAN-0441ED.pdf",
+        "fileType": "pdf",
+        "fileSize": 51554,
+        "resumeText": "",
+        "skills": [],
+        "wordCount": 0,
+        "uploadedAt": "2026-08-23 09:58:56"
+    },
+    {
+        "candidateId": "CAN-04476A",
+        "originalName": "resume-elena-popescu.pdf",
+        "fileName": "CAN-04476A.pdf",
+        "fileType": "pdf",
+        "fileSize": 52030,
+        "resumeText": "",
+        "skills": [],
+        "wordCount": 0,
+        "uploadedAt": "2026-08-23 09:58:56"
+    },
+    {
+        "candidateId": "CAN-D01A3B",
+        "originalName": "resume-rohan-mehta.pdf",
+        "fileName": "CAN-D01A3B.pdf",
+        "fileType": "pdf",
+        "fileSize": 52158,
+        "resumeText": "",
+        "skills": [],
+        "experience": "",
+        "education": "",
+        "wordCount": 0,
+        "uploadedAt": "2026-08-23 10:02:53"
+    },
+    {
+        "candidateId": "CAN-D06EF1",
+        "originalName": "resume-arjun-kapoor.pdf",
+        "fileName": "CAN-D06EF1.pdf",
+        "fileType": "pdf",
+        "fileSize": 51554,
+        "resumeText": "",
+        "skills": [],
+        "experience": "",
+        "education": "",
+        "wordCount": 0,
+        "uploadedAt": "2026-08-23 10:02:53"
+    },
+    {
+        "candidateId": "CAN-D0883F",
+        "originalName": "resume-elena-popescu.pdf",
+        "fileName": "CAN-D0883F.pdf",
+        "fileType": "pdf",
+        "fileSize": 52030,
+        "resumeText": "",
+        "skills": [],
+        "experience": "",
+        "education": "",
+        "wordCount": 0,
+        "uploadedAt": "2026-08-23 10:02:53"
+    },
+    {
+        "candidateId": "CAN-23AE08",
+        "originalName": "resume-rohan-mehta.docx",
+        "fileName": "CAN-23AE08.docx",
+        "fileType": "docx",
+        "fileSize": 15432,
+        "resumeText": "Rohan Mehta Full Stack Developer (MERN) rohan.mehta@sampleinbox.dev | (408) 555-0142 | San Jose, CA SUMMARY Full stack developer with 5 years building web applications using MongoDB, Express, React, and Node.js. Experienced designing REST and GraphQL APIs consumed by 100K+ monthly active users. EXPERIENCE Full Stack Developer \u2014 Brightloop Technologies 2022 \u2013 Present Built and maintain a Node.js/Express REST API serving 2M+ requests/day Designed MongoDB schema and aggregation pipelines powering the analytics dashboard Migrated legacy jQuery frontend to React, cutting page load time by 45% Software Developer \u2014 Kestrel Web Labs 2020 \u2013 2022 Developed reusable React component library adopted across 4 product teams Implemented JWT-based authentication and role-based access control EDUCATION B.Tech Computer Science, VIT Vellore 2016 \u2013 2020 SKILLS JavaScript \u2022 Node.js \u2022 Express \u2022 MongoDB \u2022 React \u2022 REST APIs \u2022 GraphQL",
+        "skills": [
+            "javascript",
+            "react",
+            "java",
+            "node.js",
+            "mongodb",
+            "rest api",
+            "api",
+            "jquery"
+        ],
+        "experience": "d designing REST and GraphQL APIs consumed by 100K+ monthly active users.",
+        "education": "B.Tech Computer Science, VIT Vellore 2016 \u2013 2020",
+        "wordCount": 121,
+        "uploadedAt": "2026-08-23 10:09:22"
+    },
+    {
+        "candidateId": "CAN-06E30B",
+        "originalName": "resume-rohan-mehta.docx",
+        "fileName": "CAN-06E30B.docx",
+        "fileType": "docx",
+        "fileSize": 15432,
+        "resumeText": "Rohan Mehta Full Stack Developer (MERN) rohan.mehta@sampleinbox.dev | (408) 555-0142 | San Jose, CA SUMMARY Full stack developer with 5 years building web applications using MongoDB, Express, React, and Node.js. Experienced designing REST and GraphQL APIs consumed by 100K+ monthly active users. EXPERIENCE Full Stack Developer \u2014 Brightloop Technologies 2022 \u2013 Present Built and maintain a Node.js/Express REST API serving 2M+ requests/day Designed MongoDB schema and aggregation pipelines powering the analytics dashboard Migrated legacy jQuery frontend to React, cutting page load time by 45% Software Developer \u2014 Kestrel Web Labs 2020 \u2013 2022 Developed reusable React component library adopted across 4 product teams Implemented JWT-based authentication and role-based access control EDUCATION B.Tech Computer Science, VIT Vellore 2016 \u2013 2020 SKILLS JavaScript \u2022 Node.js \u2022 Express \u2022 MongoDB \u2022 React \u2022 REST APIs \u2022 GraphQL",
+        "skills": [
+            "javascript",
+            "react",
+            "java",
+            "node.js",
+            "mongodb",
+            "rest api",
+            "api",
+            "jquery"
+        ],
+        "experience": "d designing REST and GraphQL APIs consumed by 100K+ monthly active users.",
+        "education": "B.Tech Computer Science, VIT Vellore 2016 \u2013 2020",
+        "wordCount": 121,
+        "uploadedAt": "2026-08-23 10:13:36"
+    },
+    {
+        "candidateId": "CAN-35CFCF",
+        "originalName": "Ayan_Khan_Resume.docx",
+        "fileName": "CAN-35CFCF.docx",
+        "fileType": "docx",
+        "fileSize": 36803,
+        "resumeText": "Ayan Khan ayan@example.com Professional Summary Developed web applications with Python, React and MongoDB. Experience with SQL and Git. Skills Python, SQL, React, MongoDB, Git Experience 2 years professional experience. Education Bachelor's Degree in Computer Science / Information Technology",
+        "skills": [
+            "react",
+            "python",
+            "mongodb",
+            "git",
+            "sql"
+        ],
+        "experience": "with SQL and Git.",
+        "education": "Bachelor's Degree in Computer Science / Information Technology",
+        "wordCount": 38,
+        "uploadedAt": "2026-08-23 20:11:15"
+    },
+    {
+        "candidateId": "CAN-0C7E90",
+        "originalName": "Ayan_Khan_Resume.docx",
+        "fileName": "CAN-0C7E90.docx",
+        "fileType": "docx",
+        "fileSize": 36803,
+        "resumeText": "Ayan Khan ayan@example.com Professional Summary Developed web applications with Python, React and MongoDB. Experience with SQL and Git. Skills Python, SQL, React, MongoDB, Git Experience 2 years professional experience. Education Bachelor's Degree in Computer Science / Information Technology",
+        "skills": [
+            "react",
+            "python",
+            "mongodb",
+            "git",
+            "sql"
+        ],
+        "experience": "with SQL and Git.",
+        "education": "Bachelor's Degree in Computer Science / Information Technology",
+        "wordCount": 38,
+        "uploadedAt": "2026-08-23 20:24:32"
+    },
+    {
+        "candidateId": "CAN-0CDAAE",
+        "originalName": "Rahul_Sharma_Resume.docx",
+        "fileName": "CAN-0CDAAE.docx",
+        "fileType": "docx",
+        "fileSize": 36839,
+        "resumeText": "Rahul Sharma rahul@example.com Professional Summary Built ML prediction APIs using Python and FastAPI. Worked with SQL databases and data analysis. Skills Python, SQL, Machine Learning, FastAPI, Pandas, NumPy, Git Experience 3 years professional experience. Education Bachelor's Degree in Computer Science / Information Technology",
+        "skills": [
+            "python",
+            "api",
+            "git",
+            "machine learning",
+            "sql"
+        ],
+        "experience": "3 years professional",
+        "education": "Bachelor's Degree in Computer Science / Information Technology",
+        "wordCount": 43,
+        "uploadedAt": "2026-08-23 20:24:32"
+    },
+    {
+        "candidateId": "CAN-0CE5B9",
+        "originalName": "Sameer_Patel_Resume.docx",
+        "fileName": "CAN-0CE5B9.docx",
+        "fileType": "docx",
+        "fileSize": 36814,
+        "resumeText": "Sameer Patel sameer@example.com Professional Summary Worked on backend applications using Java and SQL. Basic Python and web development experience. Skills Java, SQL, HTML, CSS, Python Experience 1 year professional experience. Education Bachelor's Degree in Computer Science / Information Technology",
+        "skills": [
+            "html",
+            "css",
+            "python",
+            "java",
+            "sql"
+        ],
+        "experience": ".",
+        "education": "Bachelor's Degree in Computer Science / Information Technology",
+        "wordCount": 39,
+        "uploadedAt": "2026-08-23 20:24:32"
+    }
+]
