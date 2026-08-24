@@ -1,9 +1,13 @@
-FROM php:8.2-apache
+FROM python:3.11-slim
 
-COPY . /var/www/html/
+WORKDIR /app
 
-RUN chown -R www-data:www-data /var/www/html
+COPY requirements.txt .
 
-EXPOSE 80
+RUN pip install --no-cache-dir -r requirements.txt
 
-CMD ["apache2-foreground"]
+COPY . .
+
+EXPOSE 8000
+
+CMD ["uvicorn", "main:app", "--host", "0.0.0.0", "--port", "8000"]
